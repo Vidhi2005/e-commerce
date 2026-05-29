@@ -28,6 +28,8 @@ terraform/tfplan
 tfplan
 *.tfvars
 *.tfvars.json
+*.terraform.lock.hcl
+terraform/.terraform.lock.hcl
 
 # Docker
 *.tar
